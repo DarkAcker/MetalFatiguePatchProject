@@ -5,7 +5,8 @@ Software requirements: .NETFramework in Version=v4.7.2
 
 Compiled and testet with Visual Studio 2019
 
-
+![application_view](pictures\application_view.png)
 
 ### Download
 https://github.com/DarkAcker/MetalFatiguePatchProject/releases/tag/v0.1.0-alpha
+
