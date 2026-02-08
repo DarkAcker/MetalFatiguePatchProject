@@ -9,3 +9,5 @@ However, the unit limit, which only applies to the host and the bots in multipla
 The tool has been ported to Rust and now uses GPUI as its GUI framework. It is now also possible to select options other than doubling the allocated memory in the patched call. Furthermore, the licence has changed to MIT.
 
 ![application_view](markdown_media/application_view.png)
+
+### [Download on SourceForge](https://sourceforge.net/projects/metalfatiguepatchproject/)
