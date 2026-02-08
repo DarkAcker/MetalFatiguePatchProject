@@ -5,11 +5,7 @@ With this release, the RAM crash bug has been fixed. Especially in the multiplay
 
 However, the unit limit, which only applies to the host and the bots in multiplayer, but not to other players, has still not been increased.
 
-Software requirements: .NETFramework in Version=v4.7.2
-
-Compiled and testet with Visual Studio 2019
+#### 2026:
+The tool has been ported to Rust and now uses GPUI as its GUI framework. It is now also possible to select options other than doubling the allocated memory in the patched call. Furthermore, the licence has changed to MIT.
 
 ![application_view](pictures/application_view.png)
-
-### [Download on SourceForge](https://sourceforge.net/projects/metalfatiguepatchproject/)
-
