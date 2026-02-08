@@ -6,7 +6,7 @@ With this release, the RAM crash bug has been fixed. Especially in the multiplay
 However, the unit limit, which only applies to the host and the bots in multiplayer, but not to other players, has still not been increased.
 
 #### 2026:
-The tool has been ported to Rust and now uses GPUI as its GUI framework. It is now also possible to select options other than doubling the allocated memory in the patched call. Furthermore, the licence has changed to MIT.
+The tool has been ported to Rust and now uses GPUI-component as its GUI framework. It is now also possible to select options other than doubling the allocated memory in the patched call. Furthermore, the licence has changed to MIT.
 
 ![application_view](markdown_media/application_view.png)
 
