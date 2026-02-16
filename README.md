@@ -1,5 +1,5 @@
 # MetalFatiguePatcher
-This project exists to fix the crash due to "too little memory available" in the game Metal Fatigue.
+This project exists to fix the crash due to "too little memory available" in the game Metal Fatigue. (Steam Version only)
 
 With this release, the RAM crash bug has been fixed. Especially in the multiplayer of the Steam version of Metal Fatigue there were crashes if there were too many units in the game.
 
